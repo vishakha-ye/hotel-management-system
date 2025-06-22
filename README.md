@@ -1,4 +1,4 @@
-# hotel-management-system
+# Hotel Management System
 
 A final-year BCA project developed using **Java (Swing & AWT)** and **MySQL** as the backend database.
 
