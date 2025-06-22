@@ -1,25 +1,51 @@
-# Hotel Management System
+#  Hotel Management System
 
-A final-year BCA project developed using **Java (Swing & AWT)** and **MySQL** as the backend database.
+A final-year BCA project developed using **Java (Swing & AWT)** for the frontend and **MySQL** as the backend database.
+
+# Project Overview
+This project is designed to simplify hotel operations such as room bookings, check-ins and check-outs, and staff/customer management. It's a desktop application built for educational purposes with a clean GUI using Java Swing.
 
 # Features
 - Add, view, and delete rooms
 - Customer check-in and check-out
 - Room status updates
 - Employee and customer management
+- Checkin, checkout summary
 
 # Technologies Used
 - Java (Core Java, Swing & AWT)
 - MySQL
-- JDBC
+- JDBC (Java Database Connectivity)
 - NetBeans IDE
 
-# Team Members
-- Vishakha Yadav  
-- Mahek Sayyed  
-- Kajal Jaiswal  
+# How to Run the Project
+1. **Clone the Repository**
 
-# How to Run
-1. Open project in NetBeans  
-2. Import MySQL database from `database.sql`  
-3. Run `Dashboard.java` as the main file
+   git clone https://github.com/vishakha-ye/hotel-management-system.git
+  
+2. **Open the project in NetBeans IDE**
+3. **Set up MySQL Database:**
+   - Import the provided SQL dump into MySQL
+   - Update DB credentials in `Conn.java`
+4. **Run the application** via `Dashboard.java` or the main class
+
+# Screenshots
+Add your screenshots here using:
+```
+![Screenshot1](images/screenshot1.png)
+![Screenshot2](images/screenshot2.png)
+```
+
+# Credits
+Developed by:
+- Vishakha Yadav
+- Mahek Sayad
+- Kajal jaiswal
+
+# Contact
+For queries or suggestions:
+[LinkedIn - Vishakha Yadav](https://www.linkedin.com/in/vishakha-yadav-199b38370/)
+
+---
+
+> "Learn. Build. Grow." 
