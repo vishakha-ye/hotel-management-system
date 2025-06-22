@@ -50,9 +50,9 @@ This desktop application streamlines hotel operations like room booking, check-i
 
 Developed by:
 
-Vishakha Yadav
-Mahek Sayad
-Kajal Jaiswal
+-Vishakha Yadav
+-Mahek Sayad
+-Kajal Jaiswal
 
  Contact
 For queries or suggestions, feel free to connect:
