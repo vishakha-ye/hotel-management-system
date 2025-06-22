@@ -30,11 +30,20 @@ This project is designed to simplify hotel operations such as room bookings, che
 4. **Run the application** via `Dashboard.java` or the main class
 
 # Screenshots
-Add your screenshots here using:
-```
-![Screenshot1](images/screenshot1.png)
-![Screenshot2](images/screenshot2.png)
-```
+
+images/Screenshot 2025-06-22 115944.png
+images/Screenshot 2025-06-22 115958.png
+images/Screenshot 2025-06-22 120009.png
+images/Screenshot 2025-06-22 120021.png
+images/Screenshot 2025-06-22 120031.png
+images/Screenshot 2025-06-22 120043.png
+images/Screenshot 2025-06-22 120055.png
+images/Screenshot 2025-06-22 120105.png
+images/Screenshot 2025-06-22 120117.png
+images/Screenshot 2025-06-22 120127.png
+images/Screenshot 2025-06-22 120136.png
+images/Screenshot 2025-06-22 120147.png
+
 
 # Credits
 Developed by:
