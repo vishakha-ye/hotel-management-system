@@ -44,7 +44,8 @@ Developed by:
 
 # Contact
 For queries or suggestions:
-[LinkedIn - Vishakha Yadav](https://www.linkedin.com/in/vishakha-yadav-199b38370/)
+![Dashboard](https://github.com/vishakha-ye/hotel-management-system/blob/main/images/Screenshot%202025-06-22%20115944.png?raw=true)
+
 
 ---
 
